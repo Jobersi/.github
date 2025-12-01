@@ -49,7 +49,7 @@ Support us on **Patreon** 💡 to help us build and maintain projects, open-sour
 
 Some of our projects are open for public contributions. Check out our repositories and pick a project to start contributing today!  
 
-- [JobUnblocker](https://github.com/jobersi/jobunblocker) – our flagship open-source project
+- [JobUnblock](https://jobunblock.com) – our flagship open-source project
 - More projects coming soon!
 
 ---
