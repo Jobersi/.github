@@ -31,7 +31,7 @@ To create innovative software, open-source tools, and collaborative projects tha
 
 We welcome anyone who is eager to learn, code, and contribute. Whether you are an experienced developer or just starting out, there is a place for you in Jobersi.  
 
-Join our **Discord server** to start collaborating, ask questions, and meet the team: [Join Jobersi Discord](https://jobersi.cpm)
+Join our **Discord server** to start collaborating, ask questions, and meet the team: [Join Jobersi Discord](https://jobersi.com)
 
 Support us on **Patreon** 💡 to help us build and maintain projects, open-source tools, and community resources: [Become a Patron](https://www.patreon.com/c/Jobersi)
 
